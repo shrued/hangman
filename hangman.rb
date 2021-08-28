@@ -18,7 +18,7 @@ class Hangman
       ["demeter", "Goddess of Agriculture"],
       ["ares", "God of War"],
       ["athena", "Goddess of Wisdom, War, and Useful Arts"],
-      ["apollo", "God of Archery, Music, Poetry, Prophecy, Medicine, and later on the God of the Sun"],
+      ["apollo", "God of Archery, Music, Poetry, Prophecy, Medicine, and later on, the God of the Sun"],
       ["artemis", "Goddess of the Moon, the Hunt, and Young Maidens"],
       ["haphaestus", "God of Blacksmiths and Fire"],
       ["aphrodite", "Goddess of Love and Beauty"],
@@ -26,7 +26,7 @@ class Hangman
       ["dionysus", "God of Wine"],
       ["hypnos", "God of Sleep"],
       ["nemesis", "Goddess of Revenge"],
-      ["hecate", "Goddess of magic, crossroads and ghosts"],
+      ["hecate", "Goddess of Magic, Crossroads and Ghosts"],
     ]
   end
 
